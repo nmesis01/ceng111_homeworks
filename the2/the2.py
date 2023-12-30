@@ -57,3 +57,4 @@ def check_month(month_calendar):
         return breached_rules
     else:
         return cost
+    
